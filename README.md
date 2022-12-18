@@ -2,10 +2,8 @@
 Fun coding challenges
 
 ### BroChallenge.js 
-A coding challenge from my brother.
+A coding challenge from my brother, with example of output. 
 
-<img src="https://github.com/milosdespotovic/CodingChallenges/blob/main/BroChallenge.png" width=50%>
+<img src="https://github.com/milosdespotovic/CodingChallenges/blob/main/BroChallenge.png" height=450><img src="https://github.com/milosdespotovic/CodingChallenges/blob/main/BroChallengeOutput.png" height=450>
 
-Example of output: 
 
-<img src="https://github.com/milosdespotovic/CodingChallenges/blob/main/BroChallengeOutput.png" width=50%>
